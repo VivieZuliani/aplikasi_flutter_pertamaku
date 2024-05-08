@@ -22,17 +22,7 @@ A new Flutter project from :
 
 ![Screenshot 2024-05-08 144554](https://github.com/VivieZuliani/aplikasi_flutter_pertamaku/assets/130271255/5969acbe-77d0-45cb-90f4-3471908e92cd)
 
-
-
-
-
-
-
-
-
-
-
-
+> End, Thank you..
 
 
 ## Getting Started
